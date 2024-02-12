@@ -1,1 +1,21 @@
 
+[
+  {
+    "id": 1,
+    "title": "Title One",
+    "link": "http://example.com/one",
+    "tag": "Tag"
+  },
+  {
+    "id": 2,
+    "title": "Title Two",
+    "link": "http://example.com/two",
+    "tag": "Tag B"
+  },
+  {
+    "id": 3,
+    "title": "Title Three",
+    "link": "http://example.com/three",
+    "tag": "Tag C"
+  }
+]
